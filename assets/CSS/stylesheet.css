@@ -123,3 +123,9 @@ body {
     padding-bottom: 120px;
     background-color: #000;
 }
+
+.avatar-img {
+    width: 260px;
+    height: auto;
+    border-radius: 12px;
+}
