@@ -133,3 +133,11 @@ body {
 .avatars-section .col-md-4 {
   padding: 20px 0;
 }
+
+.avatar-img {
+  transition: transform 0.3s;
+}
+
+.avatar-img:hover {
+  transform: scale(1.05);
+}
