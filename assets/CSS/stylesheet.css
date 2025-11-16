@@ -99,7 +99,7 @@ body {
  
 .fade-in {
     opacity: 0;
-    animation: fadeup 1s ease forwards;
+    animation: fadeUp 1s ease forwards;
 }
 @keyframes fadeUp {
     from {
