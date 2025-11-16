@@ -111,7 +111,13 @@ body {
         transform: translateY(0);
     }
 }
-
+.features-section h4 {
+    margin-top: 0;
+    color: white !important
+}
+.features-section p {
+    margin-top: 8px;
+}
 .features-section {
     padding-top: 120px;
     padding-bottom: 120px;
