@@ -1,7 +1,8 @@
 /* colour change to nav bar */
 .new-navbar {
     background-color: #000;
-    padding: 4px 0;
+    padding: 6px 0;
+    padding: 6px 0;
 }
 
 .new-navbar .container {
@@ -10,10 +11,14 @@
 
 /* logo in navbar */
 .logo {
-    height: 20px;
+    height: 24px;
     width: auto;
 }
 
 .nav-link {
     color: white;
+}
+
+.nav-item {
+    margin-left: 24px;
 }
