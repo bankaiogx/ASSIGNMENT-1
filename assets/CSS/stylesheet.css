@@ -97,7 +97,7 @@ body {
     z-index: 1;   
 }
  
-.fade in {
+.fade-in {
     opacity: 0;
     animation: fadeup 1s ease forwards;
 }
