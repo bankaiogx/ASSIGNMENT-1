@@ -43,3 +43,7 @@ body {
 .nav-item {
     margin-left: 24px;
 }
+
+.hero-section {
+    background-color: grey;
+}
