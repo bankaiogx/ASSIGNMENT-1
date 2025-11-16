@@ -128,10 +128,12 @@ body {
     width: 340px;
     height: auto;
     border-radius: 12px;
+    
 }
 
 .avatars-section .col-md-4 {
-  padding: 20px 0;
+  padding: 40px 0;
+  overflow: hidden;
 }
 
 .avatar-img {
@@ -146,8 +148,8 @@ body {
   filter: drop-shadow(0 0 30px rgba(0, 120, 255, 0.9));
 }
 
-.shadow-card:hover {
-  box-shadow: 0 0 35px rgba(140, 0, 255, 0.8);
+.shadow:hover {
+  filter: drop-shadow(0 0 30px rgba(140, 0, 255, 0.9));
 }
 
 .avatar-img:hover {
