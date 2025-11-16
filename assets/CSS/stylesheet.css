@@ -146,6 +146,10 @@ body {
   filter: drop-shadow(0 0 30px rgba(0, 120, 255, 0.9));
 }
 
+.shadow:hover {
+  filter: drop-shadow(0 0 30px rgba(140, 0, 255, 0.9));
+}
+
 .avatar-img:hover {
   transform: scale(1.05);
 }
