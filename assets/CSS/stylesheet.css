@@ -125,7 +125,11 @@ body {
 }
 
 .avatar-img {
-    width: 260px;
+    width: 340px;
     height: auto;
     border-radius: 12px;
+}
+
+.avatars-section .col-md-4 {
+  padding: 20px 0;
 }
