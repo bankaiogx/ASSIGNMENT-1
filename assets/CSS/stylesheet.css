@@ -67,6 +67,10 @@ body {
     color: azure;
 }
 
+.hero-section p {
+    margin-bottom: 24px;
+}
+
 .hero-section p, .badge {
     text-shadow: 0 2px 4px rgba(0,0,0,0.4);
     color: white;
