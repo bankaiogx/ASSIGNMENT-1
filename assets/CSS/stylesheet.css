@@ -1,7 +1,12 @@
+body {
+    padding-top: 70px;
+
+}
+
 /* colour change to nav bar */
 .new-navbar {
     background-color: #000;
-    padding: 6px 0;
+    padding: 10px 0;
     position: fixed;
     top: 0;
     width: 100%;
@@ -26,7 +31,7 @@
     padding-top: 0;
     padding-bottom: 0;
 }
-
+/* grey hover over links */
 .new-navbar .nav-link:hover {
     color: #cccccc !important;
 }
