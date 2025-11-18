@@ -155,3 +155,9 @@ body {
 .avatar-img:hover {
   transform: scale(1.05);
 }
+
+.hero-video {
+  width: 100%;
+  max-width: 400px;
+  border-radius: 12px;
+}
