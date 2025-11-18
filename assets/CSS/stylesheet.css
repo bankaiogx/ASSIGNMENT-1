@@ -136,9 +136,14 @@ body {
     width: 173px;
 }
 
+.avatars-section {
+    background: #000;
+}
+
 .avatars-section .col-md-4 {
   padding: 40px 0;
   overflow: hidden;
+  background: #000;
 }
 
 .avatar-img {
