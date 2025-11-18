@@ -179,3 +179,8 @@ body {
     padding: 10px 0;
     margin-top: 40px
 }
+
+.about-hero {
+    background: black;
+    color:white
+}
