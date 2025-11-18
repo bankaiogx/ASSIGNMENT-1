@@ -195,3 +195,10 @@ body {
     background: black;
     color:white
 }
+
+.about-hero-video {
+    width: 100%;
+    max-width: 900px;
+    border-radius: 12px;
+    margin-top: 20px;
+}
