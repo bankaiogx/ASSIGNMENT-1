@@ -52,6 +52,16 @@ body {
     padding-top: 80px;
     position: relative;
 }
+
+.hero-section .container,
+.hero-section .row,
+.hero-section .col-md-6,
+.hero-section a,
+.hero-section button {
+    position: relative;
+    z-index: 2;
+}
+
 /*dark overlay*/
 .hero-section::before {
     content: "";
