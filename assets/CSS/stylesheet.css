@@ -124,11 +124,16 @@ body {
     background-color: #000;
 }
 
-.avatar-img {
-    width: 340px;
-    height: auto;
-    border-radius: 12px;
-    
+.avatar-img.blaze {
+    width: 190px;
+}
+
+.avatar-img.zaya {
+    width: 170px;
+}
+
+.avatar-img.shadow {
+    width: 170px;
 }
 
 .avatars-section .col-md-4 {
