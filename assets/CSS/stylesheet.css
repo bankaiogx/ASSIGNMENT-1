@@ -94,7 +94,9 @@ body {
     width: 100%;
     height: 80px;
     background: linear-gradient(to bottom, rgba(0,0,0,0) 0%, #000 100%);
-    z-index: 1;   
+    z-index: 1;
+    display: none;
+    
 }
  
 .fade-in {
@@ -176,6 +178,5 @@ body {
     background-color: black;
     color: white;
     padding: 10px 0;
-    margin-top: 40px;
-    border-top: 1px solid #222;
+    margin-top: 40px
 }
