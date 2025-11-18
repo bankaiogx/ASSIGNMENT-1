@@ -14,18 +14,19 @@ body {
     top: 0;
     width: 100%;
     z-index: 999;
+    display: flex;
+    align-items: center;
 }
 
 .new-navbar .container {
     max-width: 1200px;
     width: 100%;
     margin: 0 auto;
-    margin-left: auto;
 }
 
 /* logo in navbar */
 .logo {
-    height: 24px;
+    height: 30px;
     width: auto;
 }
 
@@ -36,6 +37,9 @@ body {
     letter-spacing: 0.3px;
     padding-top: 0;
     padding-bottom: 0;
+    line-height: normal;
+    display: flex;
+    align-items: center;
 }
 /* grey hover over links */
 .new-navbar .nav-link:hover {
