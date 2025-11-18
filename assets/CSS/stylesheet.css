@@ -23,6 +23,14 @@ body {
     display: flex; !important;
     align-items: center; !important;
     justify-content: space-between;
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+    gap: 0;
+}
+
+.navbar-brand {
+    padding-left: 0 !important;
+    margin-left: 0 !important;
 }
 
 /* logo in navbar */
@@ -30,6 +38,7 @@ body {
     height: 30px;
     width: auto;
     margin-right: auto !important;
+    margin-left: 0 !important;
 }
 
 .nav-link {
