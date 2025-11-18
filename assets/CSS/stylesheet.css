@@ -14,20 +14,22 @@ body {
     top: 0;
     width: 100%;
     z-index: 999;
-    display: flex;
-    align-items: center;
 }
 
 .new-navbar .container {
     max-width: 1200px;
     width: 100%;
     margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
 }
 
 /* logo in navbar */
 .logo {
     height: 30px;
     width: auto;
+    margin-right: auto;
 }
 
 .nav-link {
@@ -47,7 +49,10 @@ body {
 }
 
 .navbar-nav {
-    margin-right: 32px;
+    margin-left: auto;
+    margin-right: 0;
+    display: flex;
+    align-items: center;
 }
 
 .nav-item {
