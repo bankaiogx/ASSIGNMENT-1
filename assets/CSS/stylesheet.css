@@ -207,3 +207,11 @@ body {
 .navbar-toggler {
     border: none;
 }
+
+@media (max-width: 768px) {
+    .nav-link {
+        padding: 12px 0;
+        font-size: 18px;
+        text-align: centre;
+    }
+}
